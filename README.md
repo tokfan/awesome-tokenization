@@ -4,6 +4,8 @@ A curated collection of articles exploring tokenization in the context of large 
 
 ## Medium Articles on LLM Tokenization
 
+You should of course read my article https://medium.com/@tokfan/tokenization-demystified-how-llms-understand-text-and-why-it-matters-3a8f7f92c3e1 too.
+
 - [All you need to know about Tokenization in LLMs – Tayyib Ul Hassan Gondal (The Deep Hub, Medium)](https://medium.com/thedeephub/all-you-need-to-know-about-tokenization-in-llms-7a801302cf54)  
   A detailed primer covering tokenization definitions, naive schemes (character, word), UTF encoding, BPE, and custom tokenizer implementation. :contentReference[oaicite:1]{index=1}
 
