@@ -27,3 +27,25 @@ A curated collection of Medium articles exploring tokenization in the context of
 
 - [LLMs – TOKENIZATION – scitechtalk tv (Medium)](https://medium.com/@tvscitechtalk/list/llms-tokenization-fa203ff67f83)  
   A short curated list—including “Understanding ‘tokens’ and tokenization in large language models” and other tokenization-related content. :contentReference[oaicite:7]{index=7}
+
+## DEV.to Articles on LLM Tokenization
+
+* [Building a Custom Tokenizer for LLMs to Handle Unique Vocabulary – Hakeem Abbas (DEV.to)](https://dev.to/hakeem/building-a-custom-tokenizer-for-llms-to-handle-unique-vocabulary-1a32)
+  Explores the need for custom tokenizers tailored to specialized domains with unique vocabularies and describes methods for improving tokenization fidelity.&#x20;
+
+* [Learn how LLMs convert language into vectors using tokenization and embeddings – Cristian Sifuentes (DEV.to)](https://dev.to/cristiansifuentes/learn-how-llms-convert-language-into-vectors-using-tokenization-and-embeddings-kh2)
+  Introduces how LLMs transform language into mathematical representations via tokenization, vectorization, and embeddings, with accessible analogies and Python examples.&#x20;
+
+* [Byte-Pair Tokenization: The Basic Principle Behind Large Language Models – Otavio Monteagudo (DEV.to)](https://dev.to/otamm/byte-pair-tokenization-the-basic-principle-behind-large-language-models-16ld)
+  Offers a concise primer on byte-pair encoding (BPE), its vocabulary-building method, and its advantages over word-level tokenizers.&#x20;
+
+## Substack Articles on LLM Tokenization
+
+* [Let’s build Andrej Karpathy’s BPETokenizer in Rust and use it from Python – Alex Razvant (Multimodal AI, Substack)](https://multimodalai.substack.com/p/lets-build-andrej-karpathys-bpetokenizer)
+  A hands-on tutorial to implement a BPE tokenizer in Rust with Python bindings—highlighting efficiency gains and practical implementation.&#x20;
+
+* [A practical roadmap on LLM Systems – Alex Razvant (Multimodal AI, Substack)](https://multimodalai.substack.com/p/a-practical-roadmap-on-llm-systems)
+  Situates tokenizers as core components of the LLM pipeline, discussing their role in processing and interpreting text within modern model systems.&#x20;
+
+* [What else can LLMs do? – Paul Harrald (Substack)](https://paulharrald.substack.com/p/what-else-can-llms-do)
+  Briefly touches on tokenization efficiency challenges, including sequence-length concerns in long inputs like DNA or high-resolution images, and mentions hierarchical tokenization approaches.&#x20;
