@@ -1,6 +1,6 @@
 # Awesome-Tokenization
 
-A curated collection of Medium articles exploring tokenization in the context of large language models (LLMs).
+A curated collection of articles exploring tokenization in the context of large language models (LLMs).
 
 ## Medium Articles on LLM Tokenization
 
